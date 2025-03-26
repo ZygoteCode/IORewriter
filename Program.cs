@@ -8,7 +8,7 @@ public class Program
     [STAThread]
     public static void Main()
     {
-        Console.Title = "IORewriter | Made by https://github.com/GabryB03/";
+        Console.Title = "IORewriter | Made by https://github.com/ZygoteCode/";
         selectionStage: List<string> paths = new List<string>();
         bool canContinue = true;
 
